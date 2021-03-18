@@ -1,0 +1,10 @@
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\bin\Debug\LR1.2OOP.exe.config
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\bin\Debug\LR1.2OOP.exe
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\bin\Debug\LR1.2OOP.pdb
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\obj\Debug\LR1.2OOP.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\obj\Debug\LR1._2OOP.Form1.resources
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\obj\Debug\LR1._2OOP.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\obj\Debug\LR1.2OOP.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\obj\Debug\LR1.2OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\obj\Debug\LR1.2OOP.exe
+C:\Users\Arclxght\Desktop\LR\OOP\LR1.2OOP\obj\Debug\LR1.2OOP.pdb

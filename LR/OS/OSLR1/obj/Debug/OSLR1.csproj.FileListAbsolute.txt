@@ -1,0 +1,10 @@
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\bin\Debug\OSLR1.exe.config
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\bin\Debug\OSLR1.exe
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\bin\Debug\OSLR1.pdb
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\obj\Debug\OSLR1.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\obj\Debug\OSLR1.Form1.resources
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\obj\Debug\OSLR1.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\obj\Debug\OSLR1.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\obj\Debug\OSLR1.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\obj\Debug\OSLR1.exe
+C:\Users\Arclxght\Desktop\LR\OS\OSLR1\obj\Debug\OSLR1.pdb

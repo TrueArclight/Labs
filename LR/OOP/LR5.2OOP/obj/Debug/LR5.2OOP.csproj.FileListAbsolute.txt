@@ -1,0 +1,10 @@
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\bin\Debug\LR5.2OOP.exe.config
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\bin\Debug\LR5.2OOP.exe
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\bin\Debug\LR5.2OOP.pdb
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\obj\Debug\LR5.2OOP.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\obj\Debug\LR5._2OOP.Form1.resources
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\obj\Debug\LR5._2OOP.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\obj\Debug\LR5.2OOP.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\obj\Debug\LR5.2OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\obj\Debug\LR5.2OOP.exe
+C:\Users\Arclxght\Desktop\LR\OOP\LR5.2OOP\obj\Debug\LR5.2OOP.pdb

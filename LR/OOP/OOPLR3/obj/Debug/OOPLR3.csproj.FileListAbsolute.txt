@@ -1,0 +1,11 @@
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\bin\Debug\OOPLR3.exe.config
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\bin\Debug\OOPLR3.exe
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\bin\Debug\OOPLR3.pdb
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.Form1.resources
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.exe
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.pdb
+C:\Users\Arclxght\Desktop\LR\OOP\OOPLR3\obj\Debug\OOPLR3.Form2.resources
