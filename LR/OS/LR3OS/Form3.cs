@@ -156,7 +156,7 @@ namespace LR3OS
                 }
                 i++;
                 address += (uint)m.RegionSize;
-            } while (address >= (uint)lpSystemInfo.lpMaximumApplicationAddress);
+            } while (address <= (uint)lpSystemInfo.lpMaximumApplicationAddress);
 
             CloseHandle(handle);
         }

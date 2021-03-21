@@ -1,0 +1,16 @@
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\bin\Debug\net5.0\LR6.1OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\bin\Debug\net5.0\LR6.1OOP.deps.json
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\bin\Debug\net5.0\LR6.1OOP.runtimeconfig.json
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\bin\Debug\net5.0\LR6.1OOP.runtimeconfig.dev.json
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\bin\Debug\net5.0\LR6.1OOP.dll
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\bin\Debug\net5.0\ref\LR6.1OOP.dll
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\bin\Debug\net5.0\LR6.1OOP.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.AssemblyInfoInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.AssemblyInfo.cs
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.dll
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\ref\LR6.1OOP.dll
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR6.1OOP\obj\Debug\net5.0\LR6.1OOP.genruntimeconfig.cache

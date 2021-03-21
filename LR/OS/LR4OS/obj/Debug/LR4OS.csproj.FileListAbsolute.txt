@@ -1,0 +1,10 @@
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\obj\Debug\LR4OS.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\obj\Debug\LR4OS.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\obj\Debug\LR4OS.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\obj\Debug\LR4OS.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\bin\Debug\LR4OS.exe.config
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\bin\Debug\LR4OS.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\bin\Debug\LR4OS.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\obj\Debug\LR4OS.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\obj\Debug\LR4OS.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR4OS\obj\Debug\LR4OS.Form1.resources

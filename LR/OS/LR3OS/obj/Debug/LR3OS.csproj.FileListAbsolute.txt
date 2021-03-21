@@ -10,3 +10,15 @@ C:\Users\Arclxght\Desktop\LR\OS\LR3OS\obj\Debug\LR3OS.exe
 C:\Users\Arclxght\Desktop\LR\OS\LR3OS\obj\Debug\LR3OS.pdb
 C:\Users\Arclxght\Desktop\LR\OS\LR3OS\obj\Debug\LR3OS.Form2.resources
 C:\Users\Arclxght\Desktop\LR\OS\LR3OS\obj\Debug\LR3OS.Form3.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\bin\Debug\LR3OS.exe.config
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\bin\Debug\LR3OS.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\bin\Debug\LR3OS.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.Form1.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.Form2.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.Form3.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\LR3OS\obj\Debug\LR3OS.pdb
