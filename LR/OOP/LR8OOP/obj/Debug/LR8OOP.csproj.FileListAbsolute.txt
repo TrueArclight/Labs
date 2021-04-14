@@ -1,0 +1,10 @@
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\bin\Debug\LR8OOP.exe.config
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\bin\Debug\LR8OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\bin\Debug\LR8OOP.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\obj\Debug\LR8OOP.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\obj\Debug\LR8OOP.Form1.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\obj\Debug\LR8OOP.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\obj\Debug\LR8OOP.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\obj\Debug\LR8OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\obj\Debug\LR8OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR8OOP\obj\Debug\LR8OOP.pdb

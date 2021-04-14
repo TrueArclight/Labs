@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arclxght\\Desktop\\LR\\OOP\\LR5OOP\\LR5OOP.csproj": {}
+    "C:\\Users\\Arclxght\\Desktop\\Github-project-lab\\Labs\\LR\\OOP\\LR5OOP\\LR5OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arclxght\\Desktop\\LR\\OOP\\LR5OOP\\LR5OOP.csproj": {
+    "C:\\Users\\Arclxght\\Desktop\\Github-project-lab\\Labs\\LR\\OOP\\LR5OOP\\LR5OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arclxght\\Desktop\\LR\\OOP\\LR5OOP\\LR5OOP.csproj",
+        "projectUniqueName": "C:\\Users\\Arclxght\\Desktop\\Github-project-lab\\Labs\\LR\\OOP\\LR5OOP\\LR5OOP.csproj",
         "projectName": "LR5OOP",
-        "projectPath": "C:\\Users\\Arclxght\\Desktop\\LR\\OOP\\LR5OOP\\LR5OOP.csproj",
+        "projectPath": "C:\\Users\\Arclxght\\Desktop\\Github-project-lab\\Labs\\LR\\OOP\\LR5OOP\\LR5OOP.csproj",
         "packagesPath": "C:\\Users\\Arclxght\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arclxght\\Desktop\\LR\\OOP\\LR5OOP\\obj\\",
+        "outputPath": "C:\\Users\\Arclxght\\Desktop\\Github-project-lab\\Labs\\LR\\OOP\\LR5OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arclxght\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

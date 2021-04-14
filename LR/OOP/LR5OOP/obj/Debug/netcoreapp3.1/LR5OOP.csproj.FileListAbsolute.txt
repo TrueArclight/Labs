@@ -11,3 +11,16 @@ C:\Users\Arclxght\Desktop\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.csproj.Co
 C:\Users\Arclxght\Desktop\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.dll
 C:\Users\Arclxght\Desktop\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.pdb
 C:\Users\Arclxght\Desktop\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.genruntimeconfig.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\bin\Debug\netcoreapp3.1\LR5OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\bin\Debug\netcoreapp3.1\LR5OOP.deps.json
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\bin\Debug\netcoreapp3.1\LR5OOP.runtimeconfig.json
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\bin\Debug\netcoreapp3.1\LR5OOP.runtimeconfig.dev.json
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\bin\Debug\netcoreapp3.1\LR5OOP.dll
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\bin\Debug\netcoreapp3.1\LR5OOP.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.AssemblyInfoInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.AssemblyInfo.cs
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.dll
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR5OOP\obj\Debug\netcoreapp3.1\LR5OOP.genruntimeconfig.cache

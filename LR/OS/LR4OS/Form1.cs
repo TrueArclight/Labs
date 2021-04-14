@@ -173,7 +173,6 @@ namespace LR4OS
         public Form1()
         {
             InitializeComponent();
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -269,6 +268,7 @@ namespace LR4OS
             {
                 richTextBox1.Text += '\n' + Encoding.ASCII.GetString(Encoding.Unicode.GetBytes(me32.szModule));
             }
+            CloseHandle(hs);
         }
     }
 }

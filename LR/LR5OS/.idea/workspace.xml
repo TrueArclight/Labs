@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b1780d4-bea0-4e4b-8258-b8a2c9504d98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR1Mobile/app/src/main/res/drawable/argentina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR1Mobile/app/src/main/res/drawable/czhech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR1Mobile/app/src/main/res/drawable/russia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR1Mobile/app/src/main/res/drawable/switz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR1Mobile/app/src/main/res/drawable/usa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/java/com/example/mobilelr2/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/java/com/example/mobilelr2/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/java/com/example/mobilelr2/StateAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/drawable/argentina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/drawable/czech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/drawable/germany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/drawable/norway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/drawable/russia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/layout/activity_information.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/LR2Mobile/app/src/main/res/values/countries.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/androidTest/java/com/example/mobilelr3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/java/com/example/mobilelr3/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/java/com/example/mobilelr3/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/java/com/example/mobilelr3/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/java/com/example/mobilelr3/StateAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/drawable/argentina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/drawable/czech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/drawable/germany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/drawable/norway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/drawable/russia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/app/src/test/java/com/example/mobilelr3/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile/MobileLR3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/.vs/LR7.2OOP/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/LR7.2OOP.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/LR7.2OOP.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/bin/Debug/LR7.2OOP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/bin/Debug/LR7.2OOP.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/bin/Debug/LR7.2OOP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7.2OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7.2OOP.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7.2OOP.csproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7.2OOP.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7.2OOP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7.2OOP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7._2OOP.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7.2OOP/obj/Debug/LR7._2OOP.Properties.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/.vs/LR7OOP/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/LR7OOP.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/LR7OOP.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/bin/Debug/LR7OOP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/bin/Debug/LR7OOP.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/bin/Debug/LR7OOP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.Properties.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.csproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/LR7OOP/obj/Debug/LR7OOP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/.vs/OOPLR7CPP/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/.vs/OOPLR7CPP/v16/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/.vs/OOPLR7CPP/v16/ipch/AutoPCH/5941600c2ff45ed2/OOPLR7CPP.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/OOPLR7CPP.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/OOPLR7CPP.write.1u.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/OOPLR7CPP.vcxproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/vc142.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/Debug/vcpkg.applocal.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/OOPLR7CPP.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/OOPLR7CPP.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/OOPLR7CPP.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/OOPLR7CPP.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPLR7CPP/OOPLR7CPP.vcxproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mobile/LR1Mobile/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mobile/LR1Mobile/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/LR6OOP/.vs/LR6OOP/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/LR6OOP/.vs/LR6OOP/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR3OS/.vs/LR3OS/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR3OS/.vs/LR3OS/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR4OS/.vs/LR4OS/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR4OS/.vs/LR4OS/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR4OS/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR4OS/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR4OS/bin/Debug/LR4OS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR4OS/bin/Debug/LR4OS.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR4OS/bin/Debug/LR4OS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR4OS/bin/Debug/LR4OS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR4OS/obj/Debug/LR4OS.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR4OS/obj/Debug/LR4OS.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR4OS/obj/Debug/LR4OS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR4OS/obj/Debug/LR4OS.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS/LR4OS/obj/Debug/LR4OS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OS/LR4OS/obj/Debug/LR4OS.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qjr9Ya9WVooWfDuUPLaJgjZxn6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.Main" />
+      <module name="LR5OS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b1780d4-bea0-4e4b-8258-b8a2c9504d98" name="Default Changelist" comment="" />
+      <created>1617603689309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617603689309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="160" key="new project wizard" timestamp="1617603768728">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state x="374" y="160" key="new project wizard/63.0.1857.1080@63.0.1857.1080" timestamp="1617603768728" />
+  </component>
+</project>

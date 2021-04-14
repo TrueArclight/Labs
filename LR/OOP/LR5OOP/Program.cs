@@ -26,11 +26,23 @@ namespace LR5OOP
                 Console.WriteLine(commodity.IsCorrespondsToWorkingLife(now) ? "Годен" : "Не годен");
                 Console.WriteLine();
             }
-            Console.ReadLine();
+           
+            Console.WriteLine("----------------ЛР8-----------------");
+            Product p1 = new Product("яйца", 79, Convert.ToDateTime("06.04.2021"), 7);
+            Product p2 = new Product("молоко", 100, Convert.ToDateTime("06.04.2021"), 14);
+            Product p3 = new Product("хлеб ", 41, Convert.ToDateTime("06.04.2021"), 3);
+            Commodity[] com = new Product[] { p1, p2, p3 };
+            Array.Sort(com);
+            foreach (Product commodity in com)
+            {
+                Console.WriteLine(commodity.Info());
+                Console.WriteLine(commodity.IsCorrespondsToWorkingLife(now) ? "Годен" : "Не годен");
+                Console.WriteLine();
+            }
         }
     }
     //tovar
-    internal abstract class Commodity
+    internal abstract class Commodity : IComparable
     {
         protected DateTime ManufactureDate;
         protected string Name;
@@ -43,6 +55,14 @@ namespace LR5OOP
         public virtual bool IsCorrespondsToWorkingLife(DateTime currentDate)
         {
             return (currentDate < ManufactureDate + new TimeSpan(WorkingLife, 0, 0, 0));
+        }
+        public int CompareTo(object o)
+        {
+            Commodity p = o as Commodity;
+            if (p != null)
+                return this.Name.CompareTo(p.Name);
+            else
+                throw new Exception("Невозможно сравнить два объекта");
         }
     }
     //product

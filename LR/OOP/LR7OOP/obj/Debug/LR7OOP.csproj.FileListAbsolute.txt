@@ -1,0 +1,10 @@
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\bin\Debug\LR7OOP.exe.config
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\bin\Debug\LR7OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\bin\Debug\LR7OOP.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\obj\Debug\LR7OOP.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\obj\Debug\LR7OOP.Form1.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\obj\Debug\LR7OOP.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\obj\Debug\LR7OOP.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\obj\Debug\LR7OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\obj\Debug\LR7OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7OOP\obj\Debug\LR7OOP.pdb

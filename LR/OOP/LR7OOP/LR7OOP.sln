@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR7OOP", "LR7OOP.csproj", "{14402430-CAA2-4664-91FA-6F1054EC685A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14402430-CAA2-4664-91FA-6F1054EC685A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14402430-CAA2-4664-91FA-6F1054EC685A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14402430-CAA2-4664-91FA-6F1054EC685A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14402430-CAA2-4664-91FA-6F1054EC685A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1ECD31B-66DA-44C4-92E5-F7C4C4C85E85}
+	EndGlobalSection
+EndGlobal

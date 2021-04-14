@@ -1,0 +1,10 @@
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\bin\Debug\LR7.2OOP.exe.config
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\bin\Debug\LR7.2OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\bin\Debug\LR7.2OOP.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\obj\Debug\LR7.2OOP.csprojAssemblyReference.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\obj\Debug\LR7._2OOP.Form1.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\obj\Debug\LR7._2OOP.Properties.Resources.resources
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\obj\Debug\LR7.2OOP.csproj.GenerateResource.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\obj\Debug\LR7.2OOP.csproj.CoreCompileInputs.cache
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\obj\Debug\LR7.2OOP.exe
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OOP\LR7.2OOP\obj\Debug\LR7.2OOP.pdb
