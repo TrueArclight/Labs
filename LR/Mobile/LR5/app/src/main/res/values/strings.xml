@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bnav_item_info">Info</string>
+    <string name="bnav_item_transport">Transport</string>
+    <string name="bnav_item_place">Place</string>
+    <string name="city_about">Лондон — столица и крупнейший город Соединённого Королевства
+        Великобритании и Северной Ирландии. Административно образует регион Англии Большой Лондон,
+        разделённый на 33 самоуправляемых территории.</string>
+    <string name="img_content_desc">Image</string>
+    <string-array name="metro_icons">
+        <item>@drawable/ic_bank</item>
+        <item>@drawable/ic_bus</item>
+        <item>@drawable/ic_cafe</item>
+        <item>@drawable/ic_hospital</item>
+        <item>@drawable/ic_train</item>
+        <item>@drawable/ic_hotel</item>
+        <item>@drawable/ic_store</item>
+        <item>@drawable/ic_underground</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_pinterest</item>
+        <item>@drawable/ic_linkedin</item>
+        <item>@drawable/ic_hospital</item>
+        <item>@drawable/ic_bank</item>
+        <item>@drawable/ic_bank</item>
+        <item>@drawable/ic_cafe</item>
+        <item>@drawable/ic_taxi</item>
+        <item>@drawable/ic_bank</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_taxi</item>
+    </string-array>
+    <string-array name="metros">
+        <item>Richmond</item>
+        <item>Kew Gardens</item>
+        <item>Gunnersburry</item>
+        <item>Ealing Broadway</item>
+        <item>Ealing Common</item>
+        <item>Acton Town</item>
+        <item>Chiswick Park</item>
+        <item>Turnham Green</item>
+        <item>Stamford Brook</item>
+        <item>Ravenscourt Park</item>
+        <item>Hammersmith</item>
+        <item>Barons Court</item>
+        <item>West Kensington</item>
+        <item>Wimbledon</item>
+        <item>Wimbledon Park</item>
+        <item>Southfields</item>
+        <item>East Putney</item>
+        <item>Putney Bridge</item>
+        <item>Parsons Green</item>
+    </string-array>
+    <string name="item_station_text">Metro</string>
+    <string name="title_activity_tabs">TabLayout</string>
+</resources>

@@ -1,2 +1,3 @@
 C:\Users\Arclxght\Desktop\LR\OS\OSLR2\Debug\OSLR2.exe
 C:\Users\Arclxght\Desktop\LR\OS\OSLR2\Debug\OSLR2.pdb
+C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\OSLR2\Debug\OSLR2.exe

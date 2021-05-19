@@ -1,9 +1,1 @@
-﻿  OSLR2.cpp
-C:\Users\Arclxght\Desktop\LR\OS\OSLR2\OSLR2.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Arclxght\Desktop\LR\OS\OSLR2\OSLR2.cpp(26,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
-C:\Users\Arclxght\Desktop\LR\OS\OSLR2\OSLR2.cpp(32,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
-C:\Users\Arclxght\Desktop\LR\OS\OSLR2\OSLR2.cpp(35,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LPVOID'
-C:\Users\Arclxght\Desktop\LR\OS\OSLR2\OSLR2.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Arclxght\Desktop\LR\OS\OSLR2\OSLR2.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Arclxght\Desktop\LR\OS\OSLR2\OSLR2.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
-  OSLR2.vcxproj -> C:\Users\Arclxght\Desktop\LR\OS\OSLR2\Debug\OSLR2.exe
+﻿  OSLR2.vcxproj -> C:\Users\Arclxght\Desktop\Github-project-lab\Labs\LR\OS\OSLR2\Debug\OSLR2.exe
