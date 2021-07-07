@@ -5,8 +5,37 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LR10OOP"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+        Title="Калькулятор" Height="400" Width="600">
+    <Grid Name="RootPanel" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" x:Name="textLabel" FontFamily="Comic Sans MS" FontSize="48"/>
+        <Button Grid.Column="0" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="24">1</Button>
+        <Button Grid.Column="0" Grid.Row="2" FontFamily="Comic Sans MS" FontSize="24">4</Button>
+        <Button Grid.Column="0" Grid.Row="3" FontFamily="Comic Sans MS" FontSize="24">7</Button>
+        <Button Grid.Column="0" Grid.Row="4" FontFamily="Comic Sans MS" FontSize="24">0</Button>
+        <Button Grid.Column="1" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="24">2</Button>
+        <Button Grid.Column="1" Grid.Row="2" FontFamily="Comic Sans MS" FontSize="24">5</Button>
+        <Button Grid.Column="1" Grid.Row="3" FontFamily="Comic Sans MS" FontSize="24">8</Button>
+        <Button Grid.Column="1" Grid.Row="4" FontFamily="Comic Sans MS" FontSize="24">=</Button>
+        <Button Grid.Column="2" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="24">3</Button>
+        <Button Grid.Column="2" Grid.Row="2" FontFamily="Comic Sans MS" FontSize="24">6</Button>
+        <Button Grid.Column="2" Grid.Row="3" FontFamily="Comic Sans MS" FontSize="24">9</Button>
+        <Button Grid.Column="2" Grid.Row="4" FontFamily="Comic Sans MS" FontSize="24">AC</Button>
+        <Button Grid.Column="3" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="24">*</Button>
+        <Button Grid.Column="3" Grid.Row="2" FontFamily="Comic Sans MS" FontSize="24">/</Button>
+        <Button Grid.Column="3" Grid.Row="3" FontFamily="Comic Sans MS" FontSize="24">+</Button>
+        <Button Grid.Column="3" Grid.Row="4" FontFamily="Comic Sans MS" FontSize="24">-</Button>
     </Grid>
 </Window>

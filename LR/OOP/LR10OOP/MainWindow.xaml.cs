@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Data;
 
 namespace LR10OOP
 {
@@ -23,6 +24,29 @@ namespace LR10OOP
         public MainWindow()
         {
             InitializeComponent();
+            foreach (UIElement el in RootPanel.Children)
+            {
+                if(el is Button)
+                {
+                    ((Button) el).Click += ButtonClick;
+                }
+            }
+        }
+
+        private void ButtonClick(object sender, RoutedEventArgs e)
+        {
+            string str = (string)((Button)e.OriginalSource).Content;
+            if(str == "AC")
+            {
+                textLabel.Text = "";
+            }
+            else if( str == "=")
+            {
+                string value = new DataTable().Compute(textLabel.Text, null).ToString();
+                textLabel.Text = value;
+            }
+            else 
+                textLabel.Text += str;
         }
     }
 }
